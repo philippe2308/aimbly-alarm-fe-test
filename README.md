@@ -18,7 +18,7 @@ Feel free to add anything you think it's important while working on it, but we'd
 
 ### Tech requirements
 
-- It should be built using React (web) by forking this repository.
+- It should be built using React (web) by cloning this repository.
 - You **should not** use any UI library like Bootstrap or Tailwindcss -- but you're welcome to use. **styled-compoents, linaria, sass, less, etc.**.
 - You're allowed to use any other library you want but we really value those how can show us they know how to do it from scratch without any library.
 - You should develop the product within the rectangle `div` (phone-like) we set in the initial project; so you don't need to worry about responsive design.
