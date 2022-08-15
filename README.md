@@ -1,46 +1,58 @@
-# Getting Started with Create React App
+# Aimbly - Alarm FE Test
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e9992944-5f26-4342-9fb8-1a40454995d4/cover.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220815%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220815T151747Z&X-Amz-Expires=86400&X-Amz-Signature=e93651aa601caa57c6c6ad9468310ed7fdb96d1f29ada90f23626a069f12ec0d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22cover.png%22&x-id=GetObject" alt="Aimbly Coding Test.">
+</div>
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🏃🏽‍♀️ Objective
 
-### `npm start`
+We expect you to develop a small application that's able to remind the user about the timers they set using React (web).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 📝 Requirements
 
-### `npm test`
+Feel free to add anything you think it's important while working on it, but we'd like to provide you a list of important points we're expecting to see in your implementation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Tech requirements
 
-### `npm run build`
+- It should be built using React (web) by forking this repository.
+- You **should not** use any UI library like Bootstrap or Tailwindcss -- but you're welcome to use. **styled-compoents, linaria, sass, less, etc.**.
+- You're allowed to use any other library you want but we really value those how can show us they know how to do it from scratch without any library.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Product requirements
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- The user should be able to add how many timers they want to the app, and these events should be listed in the list below.
+- The user should be able to remove/delete a timer.
+  - When you click in an item, it should shown the delete (red) UI with the delete option.
+  - If you click on it again, it returns to the original state
+- When the time comes for an alarm to be triggered, the application should display an `alert()` (or some similar UI) with the your event's description.
+- The current time should be shown in the analog clock in the top of the app
+  - Can it be animated?
+  - Is it possible to build it using CSS?
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ⭐️ Bonus:
 
-### `npm run eject`
+- Unit tests.
+- Animations.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## ➡️ Submitting your test
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Once you get done with your tests, please update your repository `README.md` with the following information and send your repository link to `rafael@aimbly.co`:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Add any remarks you think are relevant.
+- How to install and run it.
+- What requirements have you implemented.
+- Explain the project structure (folders) you decided to use.
+- List all the libraries you used and explain to us why you decided to use it.
+- If you had more time, what would you improve?
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🎉 Have fun
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Made with love ❤️ and coffee ☕️ by [Aimbly LLC](https://aimbly.co/). Please, feel free to reach out to us in case you have any questions.
