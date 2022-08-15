@@ -32,10 +32,10 @@ Feel free to add anything you think it's important while working on it, but we'd
 - The user should be able to remove/delete an event.
   - When you click on an item, it should show the delete (red) UI with the delete and cancel options.
 - When the time comes for an event to be triggered, the application should display an `alert()` (or some similar UI) with the your event's description and the timer should be deleted.
-- The current time should be shown in the analog clock in the top of the app
+- Don't forget to allow the user to scroll within the phone-like `div`.
+- (Optional) The current time should be shown in the analog clock in the top of the app
   - Can it be animated?
   - Is it possible to build it using CSS?
-- Don't forget to allow the user to scroll within the phone-like `div`.
 
 ## ⭐️ Bonus:
 
