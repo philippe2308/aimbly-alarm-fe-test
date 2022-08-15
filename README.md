@@ -25,6 +25,8 @@ Feel free to add anything you think it's important while working on it, but we'd
 
 ### Product requirements
 
+- The following design should be followed but feel free to use your creativity
+  - [Figma](https://www.figma.com/file/bagTLBBmZu57IcoCOns6ME/Untitled?node-id=0%3A1)
 - The user should be able to add how many events they want to the app, which should be listed in the list below.
 - The user should be able to remove/delete an event.
   - When you click on an item, it should show the delete (red) UI with the delete and cancel options.
