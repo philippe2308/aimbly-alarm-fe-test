@@ -22,10 +22,11 @@ Feel free to add anything you think it's important while working on it, but we'd
 - You **should not** use any UI library like Bootstrap or Tailwindcss -- but you're welcome to use. **styled-compoents, linaria, sass, less, etc.**.
 - You're allowed to use any other library you want but we really value those how can show us they know how to do it from scratch without any library.
 - You should develop the product within the rectangle `div` (phone-like) we set in the initial project; so you don't need to worry about responsive design.
+- You should not change the width/height/max-width/max-height set for the rectangle (phone-like) `div`.
 
 ### Product requirements
 
-- The following design should be followed but feel free to use your creativity
+- The following design can be used as inspiration but feel free to use your creativity
   - [Figma](https://www.figma.com/file/bagTLBBmZu57IcoCOns6ME/Untitled?node-id=0%3A1)
 - The user should be able to add how many events they want to the app, which should be listed in the list below.
 - The user should be able to remove/delete an event.
@@ -40,6 +41,8 @@ Feel free to add anything you think it's important while working on it, but we'd
 
 - Unit tests.
 - Animations.
+- Accessibility.
+- Use your creativity.
 
 ---
 
