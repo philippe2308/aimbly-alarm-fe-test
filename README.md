@@ -21,6 +21,7 @@ Feel free to add anything you think it's important while working on it, but we'd
 - It should be built using React (web) by forking this repository.
 - You **should not** use any UI library like Bootstrap or Tailwindcss -- but you're welcome to use. **styled-compoents, linaria, sass, less, etc.**.
 - You're allowed to use any other library you want but we really value those how can show us they know how to do it from scratch without any library.
+- You should develop the product within the rectangle `div` (phone-like) we set in the initial project; so you don't need to worry about responsive design.
 
 ### Product requirements
 
@@ -31,6 +32,7 @@ Feel free to add anything you think it's important while working on it, but we'd
 - The current time should be shown in the analog clock in the top of the app
   - Can it be animated?
   - Is it possible to build it using CSS?
+- Don't forget to allow the user to scroll within the phone-like `div`.
 
 ## ⭐️ Bonus:
 
