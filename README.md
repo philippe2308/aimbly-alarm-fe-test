@@ -24,11 +24,10 @@ Feel free to add anything you think it's important while working on it, but we'd
 
 ### Product requirements
 
-- The user should be able to add how many timers they want to the app, and these events should be listed in the list below.
-- The user should be able to remove/delete a timer.
-  - When you click in an item, it should shown the delete (red) UI with the delete option.
-  - If you click on it again, it returns to the original state
-- When the time comes for an alarm to be triggered, the application should display an `alert()` (or some similar UI) with the your event's description.
+- The user should be able to add how many events they want to the app, which should be listed in the list below.
+- The user should be able to remove/delete an event.
+  - When you click on an item, it should show the delete (red) UI with the delete and cancel options.
+- When the time comes for an event to be triggered, the application should display an `alert()` (or some similar UI) with the your event's description and the timer should be deleted.
 - The current time should be shown in the analog clock in the top of the app
   - Can it be animated?
   - Is it possible to build it using CSS?
@@ -48,11 +47,11 @@ Once you get done with your tests, please update your repository `README.md` wit
 - How to install and run it.
 - What requirements have you implemented.
 - Explain the project structure (folders) you decided to use.
-- List all the libraries you used and explain to us why you decided to use it.
+- List all the libraries you used and explain to us why you chose to use it.
 - If you had more time, what would you improve?
 
 ---
 
 ## 🎉 Have fun
 
-Made with love ❤️ and coffee ☕️ by [Aimbly LLC](https://aimbly.co/). Please, feel free to reach out to us in case you have any questions.
+Made with love ❤️ and coffee ☕️ by [Aimbly LLC](https://aimbly.co/). Please, feel free to contact us in case you have any questions.
