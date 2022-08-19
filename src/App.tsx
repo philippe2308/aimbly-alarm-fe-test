@@ -1,10 +1,10 @@
 import "./App.css";
+import { Home } from "./pages";
 
 function App() {
   return (
     <div className="device">
-      <h1>You should work here.</h1>
-      <p>Don't forget about the scrolling 😉</p>
+      <Home />
     </div>
   );
 }
