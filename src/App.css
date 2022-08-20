@@ -22,9 +22,9 @@ p {
 
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
+  justify-content: start;
+  align-items: start;
+  overflow: hidden;
   border: 1px solid #1d1d1d;
   background-color: #000;
   border-radius: 32px;
